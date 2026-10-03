@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>393941</title>
+    393941
 </body>
 </html>
